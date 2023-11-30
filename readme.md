@@ -1,12 +1,11 @@
 # Nom de Votre Projet
 
-Bienvenue sur le projet [Nom de Votre Projet] ! Ce projet vise à [objectif du projet].
+Bienvenue sur le projet ls !
 
-[![Stars](https://img.shields.io/github/stars/votreutilisateur/votrerepo)](https://github.com/votreutilisateur/votrerepo/stargazers)
 
 ## Installation
 
-Pour installer [Nom de Votre Projet], suivez ces étapes simples:
+Pour installer ls, suivez ces étapes simples:
 
 1. Assurez-vous d'avoir [prérequis] installé sur votre système.
 2. Clonez le dépôt depuis GitHub:
